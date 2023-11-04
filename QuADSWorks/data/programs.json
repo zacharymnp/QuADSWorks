@@ -1,0 +1,30 @@
+{
+  "programs 2023": {
+    "Chemistry": {
+      "reqs": [
+        "CHEM 1120",
+        "CHEM 1900",
+        "MATH 1010",
+        "PHYS 1100",
+        "CHEM 1220",
+        "MATH 1020",
+        "PHYS 1200",
+        "CHEM 2110",
+        "CHEM 2120",
+        "CHEM 2250",
+        "MATH 2400",
+        "CHEM 2030",
+        "CHEM 2260"
+      ]
+    },
+    "Physics": {
+      "reqs": [
+        "CSCI 1100",
+        "MATH 1010",
+        "PHYS 1140",
+        "PHYS 1010"
+      ]
+    }
+  },
+  "programs 2022": {}
+}
