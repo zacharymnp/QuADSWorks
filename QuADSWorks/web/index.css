@@ -7,3 +7,7 @@ form {
     font-family: "Comic Sans MS", "Comic Sans", cursive; /* this is crazy */
     color: blue;
 }
+
+body {
+    background-color: lightblue;
+}

@@ -6,20 +6,23 @@
     <meta charset="UTF-8">
     <title>QuADS</title>
     <link rel="stylesheet" href="index.css">
-    <script>src = "index.js"</script>
+    <script src = "./index.js"></script>
 </head>
 <body>
 
-    <form id="action", action="checklist.html">
+    <form id="action" action="checklist.html" method="get">
         <label for="major">Select your major:</label>
         <select id="major" name="major">
             <option value="Computer Science">Computer Science</option>
             <option value="Mechanical Engineering">Mechanical Engineering</option>
+            <option value="Chemistry">Chemistry</option>
         </select><br><br>
         <label for="year">Select the year you entered RPI:</label>
         <select id="year" name="year">
             <option value="2023">2023</option>
             <option value="2022">2022</option>
+            <option value="2021">2021</option>
+            <option value="2020">2020</option>
         </select><br><br>
         <input type="submit" value="Submit">
     </form>
